@@ -19,3 +19,21 @@ TITLE 1
   ##### 1-3 ITEM
 
   * DESCRIPTON
+
+
+2. CODE SAMPLE
+--------------
+
+```sh
+cd
+ls
+pwd
+vi .vimrc
+```
+
+```java
+public class Test {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
